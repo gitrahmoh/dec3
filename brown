@@ -1,1 +1,4 @@
- its nite time
+#1/bin.bash
+
+echo "below lines will display disk space"
+df -h
