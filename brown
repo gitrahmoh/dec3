@@ -3,4 +3,7 @@
 echo "below lines will display disk space"
 df -h
 free -m
+<<<<<<< HEAD
 
+=======
+>>>>>>> 833eaa34f148494badea663a50fc011cd2cb8a00
